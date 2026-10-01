@@ -1,6 +1,6 @@
 # vibe-coding-workflow · AI 开发全流程 Skill
 
-一套**所有大模型通用**的 AI 编程工作流方法论（vibe coding），整理自系列教程视频《一天一个 vibe coding 小技巧》的三期内容。不绑定任何特定工具——Claude Code、Cursor、Codex、GLM、GPT 等，凡是能加载规则文件/Skill 的 AI 编程助手都能用。
+一套**所有大模型通用**的 AI 编程工作流方法论（vibe coding）。不绑定任何特定工具——Claude Code、Cursor、Codex、GLM、GPT 等，凡是能加载规则文件/Skill 的 AI 编程助手都能用。
 
 > 核心思想：**立项与拆分不是在写文档，而是在给 AI 立规矩——前面把规则拆得越清楚，后面 AI 写代码越不容易跑偏。**
 
